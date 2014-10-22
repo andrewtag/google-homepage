@@ -1,0 +1,48 @@
+div{
+	font:sans-serif;
+	position:relative;
+	width:95%;
+	display:inline-block;
+	text-align:center;
+	float:center;
+	
+}
+#topbar{
+	position:fixed;
+	float:top;
+	height:2em;
+	background:#;
+	text-align:right;
+}
+form{
+	border:1px grey;
+	display:inline-block;
+	position:relative;
+	
+	}
+#buttonright{
+	text-align:center;
+	background:#aaaaaa;
+	position:relative;
+	left:-20px
+	
+}
+#buttonleft{
+	text-align:center;
+	background:#aaaaaa;
+	position:relative;
+	left:20px
+	
+}
+span{
+	text-align:center;
+	margin:20px;
+	padding:5px 10px 5px 10px;
+	background:#bbbbbb;
+	position:relative;
+	width:auto;
+	height:auto;
+	float:center;	
+	display:inline;
+	width:95%;
+	}
